@@ -66,7 +66,7 @@ Partial Class Main
         Me.GroupBox1.TabIndex = 3
         Me.GroupBox1.TabStop = False
         '
-        'Form1
+        'Main
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
@@ -74,10 +74,10 @@ Partial Class Main
         Me.Controls.Add(Me.GroupBox1)
         Me.MaximizeBox = False
         Me.MinimizeBox = False
-        Me.Name = "Form1"
+        Me.Name = "Main"
         Me.ShowIcon = False
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "With Kyle's Butt"
+        Me.Text = "Discord Update"
         Me.GroupBox1.ResumeLayout(False)
         Me.GroupBox1.PerformLayout()
         Me.ResumeLayout(False)
